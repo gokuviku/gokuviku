@@ -1,25 +1,20 @@
 
 ![Krish Kaila](https://github.com/Krishpatel3085/Krishpatel3085/blob/9f475f4535b59f2932db609994de064f058125cb/krish%20patel.png)
 
-<h1 align="center">Hi 👋, I'm Krish Kaila</h1>
+<h1 align="center">Hi 👋, I'm vikas soni </h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishpatel3085&label=Profile%20views&color=0e75b6&style=flat" alt="krishpatel3085" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishpatel3085" alt="krishpatel3085" /></a> </p>
- <img align="right" alt="image" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="kailakrish" />
 - 🔭 I’m currently working on **Fullstack web Devloper.**
 
-- 👨‍💻my Portfolio is available at [https://kailakrish.netlify.app/](https://kailakrish.netlify.app/)
+- 👨‍💻my Portfolio is available at [https://vikas-updated-portfolio.netlify.app/](https://vikas-updated-portfolio.netlify.app/)
 
 - 💬 Ask me about **Web devlopment**
 
-- 📫 How to reach me **f388krish@gmail.com**
+- 📫 How to reach me **f479vikas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaila-krish-0b93a1276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaila krish" height="30" width="40" /></a>
-<a href="https://instagram.com/krish.patel_3085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish.patel_3085" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas-soni-85b881bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaila krish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
